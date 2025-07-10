@@ -5,10 +5,8 @@
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
 
 一个简单实用的Mac工具，可以自动从复制的小红书分享文本中提取链接，让你快速打开小红书内容而不需要安装App。
-
-<p align="center">
-  <img src="screenshots/gui_preview.png" alt="GUI预览图" width="500">
-</p>
+！
+安装成功后的使用方式：手机端点击帖子的 "复制链接“，mac会立即打开 chrome 浏览器并且复制和进入链接的网页。非常适合有时候需要把小红书帖子放在电脑网页整理的朋友
 
 ## 功能特点
 
